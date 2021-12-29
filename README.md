@@ -2,8 +2,6 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vitorrosar02&label=Profile%20views&color=0e75b6&style=flat" alt="vitorrosar02" /> </p>
-
 - 📘 I’m currently study at **Federal University of Santa Catarina**
 
 - 🌱 I’m currently learning **Machine Learning, Python, IA e Physics**
