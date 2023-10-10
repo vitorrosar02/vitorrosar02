@@ -1,5 +1,5 @@
 <h1 align="center">Olá, meu nome é Vitor Rosar Martins</h1>
-<h3 align="center">Estudante de Física e um futuro cientista de dados!</h3>
+<h3 align="center">Estudante de Física!</h3>
 <p align="center"> <img src="1662895996778.jpg" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vitorrosar02&label=Profile%20views&color=0e75b6&style=flat" alt="vitorrosar02" /> </p>
